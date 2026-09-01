@@ -20,56 +20,56 @@ export default function Galeria(){
     const [current, setCurrent] = useState(0);
 
     const projects = [
-        { 
-            id: 0, 
-            name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
-            year: 2021, 
-            img: "/img/cocina/cocina1.jpeg" 
-        },
-        { 
-            id: 1, 
-            name: "Placard", 
-            description: "Melamina blanca y Teka Oslo. Canto ABS 2mm.", 
-            year: 2021, 
-            img: "/img/placard/placard4.jpeg"
-        },
-        { 
-            id: 2, 
-            name: "Baño", 
-            description: "Melamina Scotch. Canto ABS 2mm.", 
-            year: 2022, 
-            img: "/img/medida/baño7.jpeg"
-        },
-        { 
-            id: 3, 
-            name: "Mueble de TV", 
-            description: "Descripción detallada del proyecto.", 
-            year: 2023, 
-            img: "/img/medida/especial19.jpeg"
-        },
-        { 
-            id: 4, 
-            name: "Recepción", 
-            description: "Melamina Nogal Terracota. Canto ABS 2mm.", 
-            year: 2023, 
-            img: "/img/medida/especial1.jpeg"
-        },
-        { 
-            id: 5, 
-            name: "Revestimiento", 
-            description: "Melamina Teka Oslo. Canto ABS 2mm.", 
-            year: 2023, 
-            img: "/img/medida/especial18.jpeg"
-        },
-        { 
-            id: 6, 
-            name: "Puerta de oficina", 
-            description: "Descripción detallada del proyecto", 
-            year: 2023, 
-            img: "/img/medida/especial3.jpg"
-        },
-    ];
+    { 
+      id: 0, 
+      name: "Cocina", 
+      description: "Laqueado blanco semi-mate. Mesada madera hidrolaqueado.", 
+      year: 2021, 
+      img: "/img/cocina/cocina5.jpeg" 
+    },
+    { 
+      id: 1, 
+      name: "Placard", 
+      description: "Melamina blanca y Teka Oslo. Canto ABS 2mm.", 
+      year: 2021, 
+      img: "/img/placard/placard21.jpeg"
+    },
+    { 
+      id: 2, 
+      name: "Baño", 
+      description: "Melamina Scotch. Canto ABS 2mm. Mesada filestone blanco norte", 
+      year: 2022, 
+      img: "/img/medida/baño7.jpeg"
+    },
+    { 
+      id: 3, 
+      name: "Mueble de TV", 
+      description: "Laqueado negro semi-mate y madera.", 
+      year: 2023, 
+      img: "/img/medida/especial19.jpeg"
+    },
+    { 
+      id: 4, 
+      name: "Recepción", 
+      description: "Enchapado en wengue con base laqueado blanco semi-mate.", 
+      year: 2023, 
+      img: "/img/medida/especial8.jpg"
+    },
+    { 
+      id: 5, 
+      name: "Revestimiento y recepción", 
+      description: "Melamina Scotch. Canto ABS 2mm.", 
+      year: 2023, 
+      img: "/img/medida/especial16.jpeg"
+    },
+    { 
+      id: 6, 
+      name: "Revestimiento", 
+      description: "Laqueado blanco semi-mate", 
+      year: 2023, 
+      img: "/img/medida/especial22.jpeg"
+    },
+  ];
 
     const goToProject = (index) => {
         setCurrent(index);

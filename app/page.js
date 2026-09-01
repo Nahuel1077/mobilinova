@@ -36,51 +36,51 @@ export default function Home() {
     { 
       id: 0, 
       name: "Cocina", 
-      description: "Melamina blanca. Canto ABS 2mm.", 
+      description: "Laqueado blanco semi-mate. Mesada madera hidrolaqueado.", 
       year: 2021, 
-      img: "/img/cocina/cocina1.jpeg" 
+      img: "/img/cocina/cocina5.jpeg" 
     },
     { 
       id: 1, 
       name: "Placard", 
       description: "Melamina blanca y Teka Oslo. Canto ABS 2mm.", 
       year: 2021, 
-      img: "/img/placard/placard4.jpeg"
+      img: "/img/placard/placard21.jpeg"
     },
     { 
       id: 2, 
       name: "Baño", 
-      description: "Melamina Scotch. Canto ABS 2mm.", 
+      description: "Melamina Scotch. Canto ABS 2mm. Mesada filestone blanco norte.", 
       year: 2022, 
       img: "/img/medida/baño7.jpeg"
     },
     { 
       id: 3, 
       name: "Mueble de TV", 
-      description: "Descripción detallada del proyecto.", 
+      description: "Laqueado negro semi-mate y madera.", 
       year: 2023, 
       img: "/img/medida/especial19.jpeg"
     },
     { 
       id: 4, 
       name: "Recepción", 
-      description: "Melamina Nogal Terracota. Canto ABS 2mm.", 
+      description: "Enchapado en wengue con base laqueado blanco semi-mate.", 
       year: 2023, 
-      img: "/img/medida/especial1.jpeg"
+      img: "/img/medida/especial8.jpg"
     },
     { 
       id: 5, 
       name: "Revestimiento", 
-      description: "Melamina Teka Oslo. Canto ABS 2mm.", 
+      description: "Melamina Scotch. Canto ABS 2mm.", 
       year: 2023, 
-      img: "/img/medida/especial18.jpeg"
+      img: "/img/medida/especial16.jpeg"
     },
     { 
       id: 6, 
-      name: "Puerta de oficina", 
-      description: "Descripción detallada del proyecto", 
+      name: "Revestimiento", 
+      description: "Laqueado blanco semi-mate", 
       year: 2023, 
-      img: "/img/medida/especial3.jpg"
+      img: "/img/medida/especial22.jpeg"
     },
   ];
   
@@ -228,19 +228,18 @@ export default function Home() {
         </div>
       </div>
       {/*Us Section*/}
-      <div className="w-full flex flex-col lg:flex-row items-center justify-center gap-4 py-8 lg:pr-8 bg-[#8b705391] lg:bg-white mt-8">
-          <div className={quicksand.className + " lg:w-1/2 w-full h-[300px] flex flex-col items-center justify-center gap-4 lg:bg-[#8b705391] p-4 lg:rounded-3xl lg:rounded-l-none"}>
+      <div className="w-full flex flex-col lg:flex-row items-center justify-center gap-4 py-8 lg:pr-8 bg-[#8b705391] lg:bg-white m-8">
+          <div className={quicksand.className + " lg:w-1/2 w-full h-[300px] flex flex-col items-center justify-center gap-4 lg:bg-[#8b705391] p-4 lg:rounded-3xl lg:rounded-l-none z-10"}>
             <h2 className="text-2xl font-bold text-white">¿Quiénes somos?</h2>
-            <p className="text-white text-justify lg:text-center p-2 max-w-[400px]">Somos una empresa dedicada a la fabricación de muebles a medida, con más de 30 años de experiencia en el rubro. Nos especializamos en cocinas, placares y muebles especiales, ofreciendo asesoramiento y cotización gratuitos.<br/> Muebles diseñados por profesionales en el rubro.</p>
-            </div>
-          <div className="lg:w-1/2 w-full flex flex-col items-center justify-center">
+            <p className="text-white text-justify text-center p-2 max-w-[400px]">Somos una empresa dedicada a la fabricación de muebles a medida, con más de 30 años de experiencia en el rubro. Nos especializamos en cocinas, placares y muebles especiales, ofreciendo asesoramiento y cotización gratuitos.<br/> Muebles diseñados por profesionales en el rubro.</p>
+          </div>
+          <div className="lg:w-1/2 w-full flex flex-col items-center justify-center lg:h-[300px]">
             <Image
-              className="w-[600px] h-[300px] object-contain lg:blur-[2px] hover:blur-none transition duration-300 ease-in-out z-20 self-center lg:self-end select-none drag-none rounded-[10px]"
-              src="/img/nosotros.png"
-              alt="Nosotros"
-              width={400}
-              height={200}
-              priority
+            height={400}
+            width={400}
+            alt="Nosotros"
+            src="/img/nosotrospng2.png"
+            className="absolute justify-self-center lg:self-center rotate-y-180"
             />
           </div>
       </div>

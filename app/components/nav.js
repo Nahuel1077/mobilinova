@@ -61,7 +61,7 @@ export default function Nav(){
                     </li>
                     <li><Link href="/galeria" className="hover:underline hover:underline-offset-4 decoration-[#655039]">Galería</Link></li>
                     <li><Link href="/nosotros" className="hover:underline hover:underline-offset-4 decoration-[#655039]">Nosotros</Link></li>
-                    <li><Link href="https://api.whatsapp.com/send/?phone=5491155093520&text=Hola,%20te%20hablo%20desde%20el%20sitio%20web%20de%20Mobilinova&type=phone_number&app_absent=0" className="hover:underline hover:underline-offset-4 decoration-[#655039]">Contacto</Link></li>
+                    <li><Link href="https://api.whatsapp.com/send/?phone=5491127194665&text=Hola,%20te%20hablo%20desde%20el%20sitio%20web%20de%20Mobilinova&type=phone_number&app_absent=0" className="hover:underline hover:underline-offset-4 decoration-[#655039]">Contacto</Link></li>
                 </ul>
             </div>
             <div className="sm:hidden">
@@ -85,7 +85,7 @@ export default function Nav(){
                     <li><Link href="/especiales" onClick={toggleNav}>A medida</Link></li>
                     <li><Link href="/galeria" onClick={toggleNav}>Galería</Link></li>
                     <li><Link href="/nosotros" onClick={toggleNav}>Nosotros</Link></li>
-                    <li><Link href="https://api.whatsapp.com/send/?phone=5491155093520&text=Hola,%20te%20hablo%20desde%20el%20sitio%20web%20de%20Mobilinova&type=phone_number&app_absent=0" onClick={toggleNav}>Contacto</Link></li>
+                    <li><Link href="https://api.whatsapp.com/send/?phone=5491127194665&text=Hola,%20te%20hablo%20desde%20el%20sitio%20web%20de%20Mobilinova&type=phone_number&app_absent=0" onClick={toggleNav}>Contacto</Link></li>
                 </ul>
                 </div>
             )}

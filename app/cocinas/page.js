@@ -30,189 +30,189 @@ export default function Cocinas(){
         { 
             id: 0, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada granito gris Mara.", 
             year: 2022, 
             img: "/img/cocina/cocina2.jpeg"
         },
         { 
             id: 1, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada madera hidrolaqueado.", 
             year: 2023, 
             img: "/img/cocina/cocina6.jpeg"
         },
         { 
             id: 2, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada madera hidrolaqueado.", 
             year: 2021, 
             img: "/img/cocina/cocina1.jpeg"
         },
         { 
             id: 3, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada madera hidrolaqueado.", 
             year: 2023, 
             img: "/img/cocina/cocina5.jpeg"
         },
         { 
             id: 4, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina4.jpeg"
         },
         { 
             id: 5, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina7.jpeg"
         },
         { 
             id: 6, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina8.jpeg"
         },
         { 
             id: 7, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina28.jpeg"
         },
         { 
             id: 8, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina29.jpeg"
         },
         { 
             id: 9, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada granito negro boreal.", 
             year: 2023, 
             img: "/img/cocina/cocina10.jpeg"
         },
         { 
             id: 10, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina12.jpeg"
         },
         { 
             id: 11, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina14.jpeg"
         },
         { 
             id: 12, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina15.jpeg"
         },
         { 
             id: 13, 
             name: "Cocina", 
-            description: "Laqueado blanco brillante.", 
+            description: "Laqueado blanco brillante. Puertas vidrio blanco.", 
             year: 2023, 
             img: "/img/cocina/cocina16.jpeg"
         },
         { 
             id: 14, 
             name: "Cocina", 
-            description: "Laqueado blanco brillante.", 
+            description: "Laqueado blanco brillante. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina17.jpeg"
         },
         { 
             id: 15, 
             name: "Cocina", 
-            description: "Laqueado blanco brillante.", 
+            description: "Laqueado blanco brillante. Puertas vidrio blanco. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina18.jpeg"
         },
         { 
             id: 16, 
             name: "Cocina", 
-            description: "Laqueado blanco brillante.", 
+            description: "Laqueado blanco brillante. Puertas vidrio blanco. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina23.jpeg"
         },
         { 
             id: 17, 
             name: "Cocina", 
-            description: "Laqueado blanco brillante.", 
+            description: "Laqueado blanco brillante. Puertas vidrio blanco. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina24.jpeg"
         },
         {
             id: 18, 
             name: "Cocina", 
-            description: "Laqueado blanco brillante.", 
+            description: "Laqueado blanco brillante. Puertas vidrio blanco. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina25.jpeg"
         },
         { 
             id: 19, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Alacena vidrio. Mesada filestone blanco norte.", 
             year: 2021, 
             img: "/img/cocina/cocina30.jpeg" 
         },
         { 
             id: 20, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Alacena vidrio. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina19.jpeg"
         },
         { 
             id: 21, 
             name: "Cocina", 
-            description: "Laqueado blanco semi-mate.", 
+            description: "Laqueado blanco semi-mate. Alacena vidrio. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina20.jpeg"
         },
         { 
             id: 22, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada negro Brasil.", 
             year: 2023, 
             img: "/img/cocina/cocina21.jpeg"
         },
         { 
             id: 23, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada granito negro boreal.", 
             year: 2023, 
             img: "/img/cocina/cocina26.jpeg"
         },
         { 
             id: 24, 
             name: "Cocina", 
-            description: "Melamina Báltico. Canto ABS 2mm.", 
+            description: "Melamina Báltico. Canto ABS 2mm. Mesada filestone blanco norte. Puerta alacena vidrio negro.", 
             year: 2023, 
             img: "/img/cocina/cocina31.jpeg"
         },
         { 
             id: 25, 
             name: "Cocina", 
-            description: "Melamina Báltico. Canto ABS 2mm.", 
+            description: "Melamina Báltico. Canto ABS 2mm. Mesada filestone blanco norte. Puerta alacena vidrio negro.", 
             year: 2023, 
             img: "/img/cocina/cocina32.jpeg"
         },
         { 
             id: 26, 
             name: "Cocina", 
-            description: "Melamina Cedro Nature. Canto ABS 2mm.", 
+            description: "Melamina Olmo Finlandés. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina33.jpeg"
         },
@@ -226,63 +226,63 @@ export default function Cocinas(){
         { 
             id: 28, 
             name: "Cocina", 
-            description: "Melamina Teka Oslo. Canto ABS 2mm.", 
+            description: "Melamina Teka Oslo. Canto ABS 2mm. Mesada negro Brasil.", 
             year: 2023, 
             img: "/img/cocina/cocina35.jpeg"
         },
         { 
             id: 29, 
             name: "Cocina", 
-            description: "Melamina Teka Oslo. Canto ABS 2mm.", 
+            description: "Melamina Teka Oslo. Canto ABS 2mm. Mesada negro Brasil.", 
             year: 2023, 
             img: "/img/cocina/cocina36.jpeg"
         },
         { 
             id: 30, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada negro Brasil. Puerta vidrio negro.", 
             year: 2023, 
             img: "/img/cocina/cocina37.jpeg"
         },
         { 
             id: 31, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada negro Brasil. Puerta vidrio negro.", 
             year: 2023, 
             img: "/img/cocina/cocina38.jpeg"
         },
         { 
             id: 32, 
             name: "Cocina", 
-            description: "Melamina blanca. Canto ABS 2mm.", 
+            description: "Melamina blanca. Canto ABS 2mm. Mesada negro Brasil. Puerta vidrio negro.", 
             year: 2023, 
             img: "/img/cocina/cocina39.jpeg"
         },
         { 
             id: 33, 
             name: "Cocina", 
-            description: "Melamina Moscú. Canto ABS 2mm.", 
+            description: "Melamina Moscú. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina40.jpeg"
         },
         { 
             id: 34, 
             name: "Cocina", 
-            description: "Melamina Moscú. Canto ABS 2mm.", 
+            description: "Melamina Moscú. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina41.jpeg"
         },
         { 
             id: 35, 
             name: "Cocina", 
-            description: "Melamina Scotch. Canto ABS 2mm.", 
+            description: "Melamina Scotch. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina42.jpeg"
         },
         { 
             id: 36, 
             name: "Cocina", 
-            description: "Melamina Scotch. Canto ABS 2mm.", 
+            description: "Melamina Scotch. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/cocina/cocina43.jpeg"
         },

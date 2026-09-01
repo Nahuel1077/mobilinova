@@ -37,42 +37,42 @@ export default function Especiales(){
         { 
             id: 3, 
             name: "Puerta corrediza de oficina", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Enchapado en madera, lustrado.", 
             year: 2022, 
             img: "/img/medida/especial2.jpg"
         },
         { 
             id: 4, 
             name: "Puerta corrediza de oficina", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Enchapado en madera, lustrado.", 
             year: 2023, 
             img: "/img/medida/especial3.jpg"
         },
         { 
             id: 5, 
             name: "Mueble de TV", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Enchapado en madera, lustrado.", 
             year: 2023, 
             img: "/img/medida/especial5.jpg"
         },
         { 
             id: 6, 
             name: "Mueble de TV", 
-            description: "Laqueado blanco semi-mate", 
+            description: "Mobiliario laqueado blanco semi-mate. Enchapado wengue, lustrado.", 
             year: 2023, 
             img: "/img/medida/especial6.jpg"
         },
         { 
             id: 8, 
             name: "Recepción", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Mobiliario laqueado blanco semi-mate. Enchapado wengue, lustrado.", 
             year: 2023, 
             img: "/img/medida/especial8.jpg"
         },
         { 
             id: 9, 
-            name: "Mesa", 
-            description: "Laqueado blanco brillante.", 
+            name: "Isla", 
+            description: "Laqueado blanco brillante. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/medida/especial9.jpeg"
         },
@@ -86,28 +86,28 @@ export default function Especiales(){
         { 
             id: 12, 
             name: "Mesas de luz y respaldo", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Laqueado blanco semi-mate.", 
             year: 2023, 
             img: "/img/medida/especial12.jpg"
         },
         { 
             id: 14, 
             name: "Cuna", 
-            description: "Laqueado blanco.", 
+            description: "Laqueado blanco semi-mate.", 
             year: 2010, 
             img: "/img/medida/especial14.jpg"
         },
         { 
             id: 15, 
             name: "Muebles de bar", 
-            description: "Laqueado semi-mate.", 
+            description: "Laqueado color semi-mate.", 
             year: 2023, 
             img: "/img/medida/especial15.jpg"
         },        
         { 
             id: 16, 
             name: "Revestimiento y recepción", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Melamina Scotch. Canto ABS 2mm.", 
             year: 2023, 
             img: "/img/medida/especial16.jpeg"
         },        
@@ -128,49 +128,49 @@ export default function Especiales(){
         { 
             id: 19, 
             name: "Mueble de TV", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Laqueado negro semi-mate y madera.", 
             year: 2023, 
             img: "/img/medida/especial19.jpeg"
         },        
         { 
             id: 20, 
             name: "Mueble de TV", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Laqueado negro semi-mate y madera.", 
             year: 2023, 
             img: "/img/medida/especial20.jpeg"
         },        
         { 
             id: 21, 
             name: "Bajo escaleras", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Melamina blanca.", 
             year: 2023, 
             img: "/img/medida/especial21.jpeg"
         },        
         { 
             id: 22, 
             name: "Revestimiento", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Laqueado blanco semi-mate.", 
             year: 2023, 
             img: "/img/medida/especial22.jpeg"
         },        
         { 
             id: 23, 
-            name: "Recepción", 
-            description: "Descripción detallada del proyecto.", 
+            name: "Isla", 
+            description: "Laqueado blanco semi-mate. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/medida/especial23.jpeg"
         },        
         { 
             id: 24, 
-            name: "Mueble de TV", 
-            description: "Descripción detallada del proyecto.", 
+            name: "Mueble Rack", 
+            description: "Melamina.", 
             year: 2023, 
             img: "/img/medida/especial25.jpeg"
         },        
         { 
             id: 25, 
             name: "Baño", 
-            description: "Melamina Moscú. Canto ABS 2mm.", 
+            description: "Melamina Moscú. Canto ABS 2mm. Mesada negro Brasil.", 
             year: 2023, 
             img: "/img/medida/baño0.jpeg"
         },        
@@ -191,49 +191,49 @@ export default function Especiales(){
         { 
             id: 28, 
             name: "Baño", 
-            description: "Melamina Praga. Canto ABS 2mm.", 
+            description: "Melamina Praga. Canto ABS 2mm. Mesada filestone gris Texpo.", 
             year: 2023, 
             img: "/img/medida/baño3.jpeg"
         },        
         { 
             id: 29, 
             name: "Baño", 
-            description: "Melamina Praga. Canto ABS 2mm.", 
+            description: "Melamina Praga. Canto ABS 2mm. Mesada filestone gris Texpo.", 
             year: 2023, 
             img: "/img/medida/baño4.jpeg"
         },        
         { 
             id: 30, 
             name: "Baño", 
-            description: "Melamina negra. Canto ABS 2mm.", 
+            description: "Laqueado negro semi-mate. Canto ABS 2mm.", 
             year: 2023, 
             img: "/img/medida/baño5.jpeg"
         },        
         { 
             id: 31, 
             name: "Baño", 
-            description: "Melamina Scotch. Canto ABS 2mm.", 
+            description: "Melamina Scotch. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/medida/baño6.jpeg"
         },        
         { 
             id: 32, 
             name: "Baño", 
-            description: "Melamina Scotch. Canto ABS 2mm.", 
+            description: "Melamina Scotch. Canto ABS 2mm. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/medida/baño7.jpeg"
         },        
         { 
             id: 33, 
             name: "Baño", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Melamina Nogal Natural. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/medida/baño8.jpg"
         },        
         { 
             id: 11, 
             name: "Proyecto 1", 
-            description: "Descripción detallada del proyecto.", 
+            description: "Melamina Nogal Natural. Mesada filestone blanco norte.", 
             year: 2023, 
             img: "/img/medida/baño9.jpg"
         },
