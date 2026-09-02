@@ -28,7 +28,7 @@ export default function Footer(){
             <div className={quicksand.className + " flex flex-row items-center justify-center gap-14"}>
                 <Link
                 className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/mobilinovamuebles/"
                 target="_blank"
                 rel="noopener noreferrer"
                 >
@@ -60,7 +60,7 @@ export default function Footer(){
                 </Link>
                 <Link
                     className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-                    href="mailto:eduardospanos@hotmail.com"
+                    href="mailto:nahuh08@hotmail.com"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

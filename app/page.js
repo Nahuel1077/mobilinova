@@ -127,7 +127,7 @@ export default function Home() {
           className="rotate-x-30 rotate-z-10 absolute -z-10 shadow-[black_0px_5px_10px_0px] blur-[1px] select-none drag-none lg:block hidden"
           />
           <h1 className={montserrat.className +  " text-white lg:text-black xl:text-6xl font-bold"}>Asesoramiento y <br/> cotización gratuitos</h1>
-          <Link href="https://api.whatsapp.com/send/?phone=5491155093520&text=Hola,%20te%20hablo%20desde%20el%20sitio%20web%20de%20Mobilinova&type=phone_number&app_absent=0" className={quicksand.className + " bg-black text-xl shadow-xl shadow-black hover:shadow-lg rounded-xl p-4 text-white"}>Agenda tu consulta!</Link>
+          <Link href="https://calendly.com/nahuh08/30min" className={quicksand.className + " bg-black text-xl shadow-xl shadow-black hover:shadow-lg rounded-xl p-4 text-white"}>Agenda tu consulta!</Link>
         </div>
       </div>
       {/*Gallery Section*/}
@@ -228,20 +228,22 @@ export default function Home() {
         </div>
       </div>
       {/*Us Section*/}
-      <div className="w-full flex flex-col lg:flex-row items-center justify-center gap-4 py-8 lg:pr-8 bg-[#8b705391] lg:bg-white m-8">
-          <div className={quicksand.className + " lg:w-1/2 w-full h-[300px] flex flex-col items-center justify-center gap-4 lg:bg-[#8b705391] p-4 lg:rounded-3xl lg:rounded-l-none z-10"}>
+      <div className="w-full flex flex-col items-center justify-center py-6 bg-[#8b705391] lg:bg-white m-8">
+          <div className={quicksand.className + " w-full h-[300px] flex flex-col items-center justify-center gap-4 lg:bg-[#8b705391] px-4 z-10"}>
             <h2 className="text-2xl font-bold text-white">¿Quiénes somos?</h2>
-            <p className="text-white text-justify text-center p-2 max-w-[400px]">Somos una empresa dedicada a la fabricación de muebles a medida, con más de 30 años de experiencia en el rubro. Nos especializamos en cocinas, placares y muebles especiales, ofreciendo asesoramiento y cotización gratuitos.<br/> Muebles diseñados por profesionales en el rubro.</p>
+            <p className="text-white text-justify p-2 max-w-[400px]">Somos una empresa dedicada a la fabricación de muebles a medida, con más de 30 años de experiencia en el rubro. Nos especializamos en cocinas, placares y muebles especiales, ofreciendo asesoramiento y cotización gratuitos.<br/> Muebles diseñados por profesionales en el rubro.</p>
           </div>
-          <div className="lg:w-1/2 w-full flex flex-col items-center justify-center lg:h-[300px]">
+          <div className={quicksand.className + " w-full flex flex-col items-center justify-center gap-4 lg:bg-[#8b705391] p-4 z-10"}>
+            <h2 className="text-2xl font-bold text-white">¿Dónde trabajamos?</h2>
+            <p className="text-white text-justify p-2 max-w-[400px]">Trabajamos en toda la región AMBA, con sucursales en Monte Grande.</p>
             <Image
-            height={400}
-            width={400}
-            alt="Nosotros"
-            src="/img/nosotrospng2.png"
-            className="absolute justify-self-center lg:self-center rotate-y-180"
+              src="/img/amba.png"
+              alt="Zonas que trabajamos"
+              width={400}
+              height={200}
             />
           </div>
+
       </div>
     </div>
   );
