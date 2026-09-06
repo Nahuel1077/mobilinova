@@ -74,7 +74,7 @@ export default function Nosotros(){
                         <h1 className="xl:text-6xl text-3xl italic">
                             Cómo trabajamos
                         </h1>
-                        <p className="lg:w-1/2 text-start lg:text-end self-start lg:self-end">Primeramente, prestamos especial atención a la <strong>necesidad</strong> y al <strong>espacio</strong> disponible. Ideamos la mejor solución <strong>estética</strong> y a <strong>medida</strong>, teniendo en cuenta la arquitectura, uso y necesidades. <br/>El renderizado está a cargo de nuestro <strong>arquitecto</strong> especializado en diseño inmobiliario, por lo que garantizamos <strong>eficiencia y atención al detalle</strong> a lo largo de todo el proyecto. <br/><strong>El proceso</strong>: Diseño, Fabricación e Instalación. Acompañamos desde el comienzo del diseño hasta la entrega final y colocación.</p>
+                        <p className="lg:w-1/2 text-start lg:text-end self-start lg:self-end">Prestamos especial atención a la <strong>necesidad</strong> y al <strong>espacio</strong> disponible. Ideamos la mejor solución <strong>estética</strong> y a <strong>medida</strong>, teniendo en cuenta la arquitectura, uso y necesidades. <br/>El renderizado está a cargo de nuestro <strong>arquitecto</strong> especializado en diseño inmobiliario, por lo que garantizamos <strong>eficiencia y atención al detalle</strong> a lo largo de todo el proyecto. <br/><strong>El proceso</strong>: Diseño, Fabricación e Instalación. Acompañamos desde el comienzo del diseño hasta la entrega final y colocación.</p>
 
                     </div>
                 </div>
